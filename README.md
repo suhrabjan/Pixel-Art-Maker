@@ -1,2 +1,3 @@
-# Pixel-Art-Maker
-A simple pixel art maker web app
+# Pixel Art Maker Project
+
+a simple pixel art maker web application.
