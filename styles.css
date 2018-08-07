@@ -3,8 +3,8 @@ body {
 }
 
 h1 {
-    font-family: Monoton;
-    font-size: 70px;
+    font-family: 'Tangerine', cursive;
+    font-size: 100px;
     margin: 0.2em;
 }
 
@@ -35,6 +35,31 @@ td {
     width: 20px;
 }
 
+#sizePicker {
+    font-size: 18px;
+}
+
 input[type=number] {
     width: 6em;
+    font-size: 15px;
+}
+
+input[type=submit]:hover {
+    background-color: silver;
+    border-radius: 5px;
+}
+
+.tableRow, .tableCell {
+    border-collapse: collapse;
+}
+
+button{
+    font-size: 18px;
+    padding: 0.35em;
+    margin: 0 0.5em;
+    border-radius: 0.5em
+}
+
+button:hover {
+    background-color: silver;
 }
